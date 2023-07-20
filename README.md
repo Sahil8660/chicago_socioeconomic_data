@@ -1,1 +1,1 @@
-# chicago_socioeconomic_data
+# Analyzing Chicago Socioeconomic Data using SQL, Python and Jupyter Notebooks
